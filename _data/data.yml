@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: yh.kwon@kaist.ac.kr
     phone: +82 010 7249 9880
-    website: blog.webjeda.com #do not add http://
+    website: ikwon2002.github.io/online-cv/
     linkedin: yonghwi-kwon-544a1317b 
     
     languages:
@@ -25,13 +25,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Photography
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
@@ -133,20 +130,17 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Transient clock power estimation of pre-CTS netlist
+        link: ieeexplore.ieee.org/document/8351430
+        authors: Yonghwi Kwon, Jinwook Jung, Inhak Han, and Youngsoo Shin
+        conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Optical proximity correction using bidirectional recurrent neural network (BRNN)
+        link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10962/109620D/Optical-proximity-correction-using-bidirectional-recurrent-neural-network-BRNN/10.1117/12.2515159.short?SSO=1
+        authors: Yonghwi Kwon, Youngsoo Song, and Youngsoo Shin
+        conference: SPIE Advanced Lithography, 2019
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
