@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Yonghwi Kwon
     tagline: Ph.D. Student
-    avatar: profile_200.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_250.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yh.kwon@kaist.ac.kr
@@ -41,9 +41,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in School of Electrical Engineering
+      university: Korea Advanced Institute of Science and Technology (KAIST)
+      time: 2019 - 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -52,9 +52,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MS in School of Electrical Engineering
+      university: Korea Advanced Institute of Science and Technology (KAIST)
+      time: 2018 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,6 +63,12 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: BS in School of Electrical Engineering
+      university: Korea Advanced Institute of Science and Technology (KAIST)
+      time: 2014 - 2018
+      details: |
+       
+          
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -138,35 +144,50 @@ publications:
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
 
       - title: Optical proximity correction using bidirectional recurrent neural network (BRNN)
-        link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10962/109620D/Optical-proximity-correction-using-bidirectional-recurrent-neural-network-BRNN/10.1117/12.2515159.short?SSO=1
+        link: www.spiedigitallibrary.org/conference-proceedings-of-spie/10962/109620D/Optical-proximity-correction-using-bidirectional-recurrent-neural-network-BRNN/10.1117/12.2515159.short?SSO=1
         authors: Yonghwi Kwon, Youngsoo Song, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2019
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Clock gating synthesis of netlist with cyclic logic paths
+        link: ieeexplore.ieee.org/document/8942042
+        authors: Yonghwi Kwon, Inhak Han, and Youngsoo Shin
+        conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2019
+        
+      - title: SRAF printing prediction using artificial neural network
+        link: 
+        authors: Yonghwi Kwon, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
+        conference: SPIE Advanced Lithography, 2020
+        
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: TensorFlow & Keras
         level: 98%
-
-      - name: Angular
+        
+      - name: Photoshop & Illustrator
         level: 98%
+        
+      - name: Synopsys Proteus & ProGen & S-litho
+        level: 98%
+        
+      - name: Synopsys IC Compiler & Design Compiler
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: PyTorch
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C
+        level: 80%
+        
+      - name: BASIC
+        level: 60%
 
-      - name: Sketch & Photoshop
+      - name: MATLAB
         level: 60%
 
 footer: >
