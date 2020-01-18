@@ -144,7 +144,7 @@ publications:
         conference: SPIE Advanced Lithography, 2020
         
       - title: Clock gating synthesis of netlist with cyclic logic paths
-        link: ieeexplore.ieee.org/document/8942042
+        link: "ieeexplore.ieee.org/document/8942042"
         authors: Yonghwi Kwon, Inhak Han, and Youngsoo Shin
         conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2019
         
