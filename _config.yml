@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Yonghwi Kwon
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+url: 'https://cv.yhkwon.com'
+baseurl:  #change it according to your repository name
 description: Resume of Yonghwi Kwon, KAIST
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
