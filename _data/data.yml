@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: yh.kwon [at] kaist.ac.kr
-    website: ikwon2002.github.io/online-cv/
+    website: cv.yhkwon.dev
     linkedin: yonghwi-kwon-544a1317b 
     
     languages:
@@ -33,11 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Summarise your career here lorem ipsum dolor sit amet, 
       Second paragraph if required.
 education:
     - degree: PhD in School of Electrical Engineering
@@ -69,7 +65,7 @@ education:
        
           
 experiences:
-    - role: Lead Developer
+    - role: Lead 
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
@@ -84,7 +80,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
+    - role: Senior S
       time: 2014 - 2015
       company: Google, London
       details: |
