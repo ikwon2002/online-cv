@@ -24,17 +24,20 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Photography
+      - item: Machine learning guided physical design
         link:
 
-      - item: Travel
+      - item: Computational lithography
+        link:
+      
+      - item: Low power design
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       Yonghwi Kwon is currently a PhD student in School of Electrical Engineering, KAIST, Korea.
-      Under supervision of Prof. Youngsoo Shin, his main research area is machine learning guided EDA, computational lithography, and low power design.
+      Under supervision of Prof. Youngsoo Shin, his main research area is machine learning guided physical design, computational lithography, and low power design.
    
 education:
     - degree: PhD in School of Electrical Engineering
