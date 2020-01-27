@@ -108,7 +108,7 @@ publications:
 
 
 skills:
-    title: Programming &amp; Languages
+    title: Programming languages
 
     toolset:
       - name: Python
@@ -132,8 +132,7 @@ skills:
       - name: Verilog
         level: 60%
         
-skills:
-    title: Skills
+    title: Tool proficiency
 
     toolset:
       - name: TensorFlow & Keras
