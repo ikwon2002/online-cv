@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yonghwi Kwon
@@ -43,13 +43,13 @@ education:
     - degree: PhD in School of Electrical Engineering
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2019 - Present
-      details: 
+      details: MS & PhD integrated program
       
     - degree: MS in School of Electrical Engineering
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2018 - 2019
       details: 
-          - Bullet point
+      
     - degree: BS in School of Electrical Engineering
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2014 - 2018
