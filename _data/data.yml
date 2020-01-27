@@ -59,8 +59,7 @@ projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      section. 
     assignments:
       - title: Velocity
         link: "#hook"
@@ -109,25 +108,16 @@ publications:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Programming &amp; Languages
 
     toolset:
       - name: Python
         level: 98%
-
-      - name: TensorFlow & Keras
+        
+      - name: Tcl/Tk
         level: 98%
         
-      - name: Photoshop & Illustrator
-        level: 98%
-        
-      - name: Synopsys Proteus & ProGen & S-litho
-        level: 98%
-        
-      - name: Synopsys IC Compiler & Design Compiler
-        level: 80%
-
-      - name: PyTorch
+      - name: Unix shell scripting
         level: 80%
 
       - name: C
@@ -138,5 +128,22 @@ skills:
 
       - name: MATLAB
         level: 60%
+        
+      - name: Verilog
+        level: 60%
+        
+skills:
+    title: Skills
+
+    toolset:
+      - name: TensorFlow & Keras
+        level: 98%
+        
+      - name: Synopsys Proteus & ProGen & S-litho
+        level: 98%
+        
+      - name: Synopsys IC Compiler & Design Compiler & PrimeTime
+        level: 80%
+
 
 footer: >
