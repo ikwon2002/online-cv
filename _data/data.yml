@@ -85,8 +85,12 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: Fast ECO leakage optimization using graph convolutional network (accepted for publication)
+        link: 
+        authors: Wonjae Lee, Yonghwi Kwon, and Youngsoo Shin
+        conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), 2020
     
-      - title: SRAF printing prediction using artificial neural network
+      - title: SRAF printing prediction using artificial neural network (accepted for publication)
         link: 
         authors: Yonghwi Kwon, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2020
