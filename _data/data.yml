@@ -61,9 +61,9 @@ projects:
       You can list your side projects or open source libraries in this
       section. 
     assignments:
-      - title: Velocity
+      - title: Machine learning based SRAF printing prediction (with SK Hynix)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: Machine learning based SRAF printing prediction method.
 
       - title: DevStudio
         link: "#"
@@ -90,13 +90,13 @@ publications:
         authors: Wonjae Lee, Yonghwi Kwon, and Youngsoo Shin
         conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), 2020
     
-      - title: SRAF printing prediction using artificial neural network (accepted for publication)
+      - title: SRAF printing prediction using artificial neural network
         link: 
         authors: Yonghwi Kwon, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2020
         
       - title: Clock gating synthesis of netlist with cyclic logic paths
-        link: "ieeexplore.ieee.org/document/8942042"
+        link: ieeexplore.ieee.org/document/8942042
         authors: Yonghwi Kwon, Inhak Han, and Youngsoo Shin
         conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2019
         
@@ -136,6 +136,7 @@ skills:
       - name: Verilog
         level: 60%
         
+skills:
     title: Tool proficiency
 
     toolset:
