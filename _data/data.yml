@@ -57,40 +57,39 @@ education:
        
 projects:
     title: Projects
-    intro: >
+    intro: 
        
     assignments:
       - title: Machine learning based SRAF printing prediction (2019)
-        link: "#"
+        link: 
         tagline: Project with SK Hynix R&D. ML based SRAF printing prediction for full chip scale.
 
       - title: Synthetic test pattern generation using generative model (2018 - present)
-        link: "#"
+        link: 
         tagline: 
 
       - title: Graph neural network guided leakage ECO
-        link: "#"
+        link: 
         tagline: 
 
       - title: Early stage clock network power estimation
-        link: "#"
+        link: 
         tagline: 
 
       - title: Gate-level clock gating for cyclic logic paths
-        link: "#"
+        link: 
         tagline: 
         
       - title: CNN based dynamic voltage drop prediction
-        link: "#"
+        link: 
         tagline: 
         
       - title: RNN based OPC acceleration
-        link: "#"
+        link: 
         tagline: 
 
 publications:
     title: Publications
-    intro: 
     papers:
       - title: Fast ECO leakage optimization using graph convolutional network (accepted for publication)
         link: 
@@ -119,8 +118,6 @@ publications:
         
 projects2:
     title: Honors
-    intro: >
-       
     assignments:
       - title: Excellence award @ SK Hynix Open Idea Contest
         link: 
