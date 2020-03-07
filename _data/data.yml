@@ -96,19 +96,19 @@ publications:
         conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), 2020
     
       - title: SRAF printing prediction using artificial neural network
-        authors: Yonghwi Kwon, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
+        authors: <b>Yonghwi Kwon</b>, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2020
         
       - title: Clock gating synthesis of netlist with cyclic logic paths
-        authors: Yonghwi Kwon, Inhak Han, and Youngsoo Shin
+        authors: <b>Yonghwi Kwon</b>, Inhak Han, and Youngsoo Shin
         conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2019
         
       - title: Optical proximity correction using bidirectional recurrent neural network (BRNN)
-        authors: Yonghwi Kwon, Youngsoo Song, and Youngsoo Shin
+        authors: <b>Yonghwi Kwon</b>, Youngsoo Song, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2019
         
       - title: Transient clock power estimation of pre-CTS netlist
-        authors: Yonghwi Kwon, Jinwook Jung, Inhak Han, and Youngsoo Shin
+        authors: <b>Yonghwi Kwon</b>, Jinwook Jung, Inhak Han, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
 
 projects2:
