@@ -92,27 +92,22 @@ publications:
     title: Publications
     papers:
       - title: Fast ECO leakage optimization using graph convolutional network (accepted for publication)
-        link: 
-        authors: Wonjae Lee, Yonghwi Kwon, and Youngsoo Shin
+        authors: Wonjae Lee, <br>Yonghwi Kwon<\br>, and Youngsoo Shin
         conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), 2020
     
       - title: SRAF printing prediction using artificial neural network
-        link: 
         authors: Yonghwi Kwon, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2020
         
       - title: Clock gating synthesis of netlist with cyclic logic paths
-        link: 
         authors: Yonghwi Kwon, Inhak Han, and Youngsoo Shin
         conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2019
         
       - title: Optical proximity correction using bidirectional recurrent neural network (BRNN)
-        link: 
         authors: Yonghwi Kwon, Youngsoo Song, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2019
         
       - title: Transient clock power estimation of pre-CTS netlist
-        link: 
         authors: Yonghwi Kwon, Jinwook Jung, Inhak Han, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
         
@@ -120,15 +115,12 @@ projects2:
     title: Honors
     assignments:
       - title: Excellence award @ SK Hynix Open Idea Contest
-        link: 
         tagline: November 2019, awarded with ~18k$ funding.
      
      - title: Invited speaker @ Next Generation Lithography (NGL) conf. 
-        link: 
         tagline: August 2019, presentation about BRNN-OPC.
      
-     - title: Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC)
-        link: 
+     - title: Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC) 
         tagline: June 2019.
 
 
