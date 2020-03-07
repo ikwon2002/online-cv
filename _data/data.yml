@@ -116,6 +116,23 @@ publications:
         link: 
         authors: Yonghwi Kwon, Jinwook Jung, Inhak Han, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
+        
+projects2:
+    title: Honors
+    intro: >
+       
+    assignments:
+      - title: Excellence award @ SK Hynix Open Idea Contest
+        link: 
+        tagline: November 2019, awarded with ~18k$ funding.
+     
+     - title: Invited speaker @ Next Generation Lithography (NGL) conf. 
+        link: 
+        tagline: August 2019, presentation about BRNN-OPC.
+     
+     - title: Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC)
+        link: 
+        tagline: June 2019.
 
 
 skills:
