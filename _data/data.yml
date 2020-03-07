@@ -113,7 +113,7 @@ publications:
         
 projects2:
     title: Honors
-    intro: 
+    
     assignments:
       - title: Excellence award @ SK Hynix Open Idea Contest
         tagline: November 2019, awarded with ~18k$ funding.
@@ -127,7 +127,6 @@ projects2:
 
 skills:
     title: Programming languages
-
     toolset:
       - name: Python
         level: 98%
@@ -152,7 +151,6 @@ skills:
         
 skills2:
     title: Tool proficiency
-
     toolset:
       - name: TensorFlow
         level: 98%
