@@ -115,13 +115,13 @@ projects2:
     title: Honors
     
     assignments:
-      - title: Excellence award @ SK Hynix Open Idea Contest
+      - title: "Excellence award @ SK Hynix Open Idea Contest"
         tagline: November 2019, awarded with ~18k$ funding.
      
-     - title: Invited speaker @ Next Generation Lithography (NGL) conf. 
+     - title: "Invited speaker @ Next Generation Lithography (NGL) conf. "
         tagline: August 2019, presentation about BRNN-OPC.
      
-     - title: Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC) 
+     - title: "Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC)"
         tagline: June 2019.
 
 
