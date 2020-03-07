@@ -60,13 +60,13 @@ projects:
     intro: 
        
     assignments:
-      - title: Machine learning based SRAF printing prediction (2019)
-        link: 
-        tagline: Project with SK Hynix R&D. ML based SRAF printing prediction for full chip scale.
-
       - title: Synthetic test pattern generation using generative model (2018 - present)
         link: 
         tagline: 
+        
+      - title: Machine learning based SRAF printing prediction (2018 - 2019)
+        link: 
+        tagline: Project with SK Hynix R&D. ML based SRAF printing prediction for full chip scale.
 
       - title: Graph neural network guided leakage ECO
         link: 
