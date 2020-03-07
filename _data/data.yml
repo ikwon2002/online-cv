@@ -113,6 +113,7 @@ publications:
         
 projects2:
     title: Honors
+    intro: 
     assignments:
       - title: Excellence award @ SK Hynix Open Idea Contest
         tagline: November 2019, awarded with ~18k$ funding.
