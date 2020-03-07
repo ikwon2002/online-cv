@@ -58,28 +58,35 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. 
+       
     assignments:
-      - title: Machine learning based SRAF printing prediction (with SK Hynix)
-        link: "#hook"
-        tagline: Machine learning based SRAF printing prediction method.
-
-      - title: DevStudio
+      - title: Machine learning based SRAF printing prediction (2019)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: Project with SK Hynix R&D. ML based SRAF printing prediction for full chip scale.
 
-      - title: Tempo
+      - title: Synthetic test pattern generation using generative model (2018 - present)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: 
 
-      - title: Atom
+      - title: Graph neural network guided leakage ECO
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
 
-      - title: Delta
+      - title: Early stage clock network power estimation
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
+
+      - title: Gate-level clock gating for cyclic logic paths
+        link: "#"
+        tagline: 
+        
+      - title: CNN based dynamic voltage drop prediction
+        link: "#"
+        tagline: 
+        
+      - title: RNN based OPC acceleration
+        link: "#"
+        tagline: 
 
 publications:
     title: Publications
@@ -140,13 +147,19 @@ skills2:
     title: Tool proficiency
 
     toolset:
-      - name: TensorFlow & Keras
+      - name: TensorFlow
         level: 98%
         
-      - name: Synopsys Proteus & ProGen & S-litho
+      - name: PyTorch
         level: 98%
         
-      - name: Synopsys IC Compiler & Design Compiler & PrimeTime
+      - name: Synopsys Proteus & S-litho
+        level: 98%
+        
+      - name: Synopsys ICC & DC & PT
+        level: 80%
+        
+      - name: Mentor Graphics Calibre
         level: 80%
 
 
