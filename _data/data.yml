@@ -88,6 +88,19 @@ projects:
         link: 
         tagline: 
 
+projects2:
+    title: Honors
+    
+    assignments:
+      - title: "Excellence award @ SK Hynix Open Idea Contest"
+        tagline: November 2019, awarded with ~18k$ funding.
+     
+     - title: "Invited speaker @ Next Generation Lithography (NGL) conf. "
+        tagline: August 2019, presentation about BRNN-OPC.
+     
+     - title: "Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC)"
+        tagline: June 2019.
+
 publications:
     title: Publications
     papers:
@@ -110,19 +123,7 @@ publications:
       - title: Transient clock power estimation of pre-CTS netlist
         authors: Yonghwi Kwon, Jinwook Jung, Inhak Han, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
-        
-projects2:
-    title: Honors
-    
-    assignments:
-      - title: "Excellence award @ SK Hynix Open Idea Contest"
-        tagline: November 2019, awarded with ~18k$ funding.
-     
-     - title: "Invited speaker @ Next Generation Lithography (NGL) conf. "
-        tagline: August 2019, presentation about BRNN-OPC.
-     
-     - title: "Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC)"
-        tagline: June 2019.
+
 
 
 skills:
