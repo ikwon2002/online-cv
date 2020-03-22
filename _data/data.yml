@@ -12,6 +12,7 @@ sidebar:
     avatar: profile_250.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    update: "Last update: 23-Mar-2020"
     email: yh.kwon [at] kaist.ac.kr
     website: blog.yhkwon.dev
     linkedin: yonghwi-kwon-544a1317b 
