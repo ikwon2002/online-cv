@@ -57,8 +57,7 @@ education:
        
 projects:
     title: Projects
-    intro: 
-       
+    intro:  
     assignments:
       - title: Dynamic voltage drop prediction with CNN (2019 - present)
         link: 
@@ -84,9 +83,9 @@ projects:
         link: 
         tagline: Project with SK Hynix R&D. ML based SRAF printing prediction for full chip scale.
 
-       - title: Early stage clock network power estimation (2017 - present)
-         link: 
-         tagline:
+      - title: Early stage clock network power estimation (2017 - present)
+        link: 
+        tagline:
 
 publications:
     title: Publications
