@@ -91,27 +91,27 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: [J1] Layout Pattern Synthesis for Lithography Optimizations (accepted)
+      - title: "[J1] Layout Pattern Synthesis for Lithography Optimizations (accepted)"
         authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, and Youngsoo Shin
         conference:  IEEE Transactions on Semiconductor Manufacturing (TSM), 2020
     
-      - title: [C5] Fast ECO leakage optimization using graph convolutional network (accepted)
+      - title: "[C5] Fast ECO leakage optimization using graph convolutional network (accepted)"
         authors: Wonjae Lee, <b>Yonghwi Kwon</b>, and Youngsoo Shin
         conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), 2020
     
-      - title: [C4] SRAF printing prediction using artificial neural network
+      - title: "[C4] SRAF printing prediction using artificial neural network"
         authors: <b>Yonghwi Kwon</b>, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2020
         
-      - title: [C3] Clock gating synthesis of netlist with cyclic logic paths
+      - title: "[C3] Clock gating synthesis of netlist with cyclic logic paths"
         authors: <b>Yonghwi Kwon</b>, Inhak Han, and Youngsoo Shin
         conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2019
         
-      - title: [C2] Optical proximity correction using bidirectional recurrent neural network (BRNN)
+      - title: "[C2] Optical proximity correction using bidirectional recurrent neural network (BRNN)"
         authors: <b>Yonghwi Kwon</b>, Youngsoo Song, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2019
         
-      - title: [C1] Transient clock power estimation of pre-CTS netlist
+      - title: "[C1] Transient clock power estimation of pre-CTS netlist"
         authors: <b>Yonghwi Kwon</b>, Jinwook Jung, Inhak Han, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
 
