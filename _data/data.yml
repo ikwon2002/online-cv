@@ -60,54 +60,58 @@ projects:
     intro: 
        
     assignments:
-      - title: Synthetic test pattern generation using generative model (2018 - present)
+      - title: Dynamic voltage drop prediction with CNN (2019 - present)
+        link: 
+        tagline: 
+
+      - title: Graph neural network guided leakage optimization (2019 - present)
         link: 
         tagline: 
         
+      - title: Gate-level clock gating for cyclic logic paths (2019 - present)
+        link: 
+        tagline: 
+
+      - title: RNN based OPC acceleration (2018 - present)
+        link: 
+        tagline: 
+        
+      - title: Synthetic test pattern generation using generative model (2018 - present)
+        link: 
+        tagline: 
+
       - title: Machine learning based SRAF printing prediction (2018 - 2019)
         link: 
         tagline: Project with SK Hynix R&D. ML based SRAF printing prediction for full chip scale.
 
-      - title: Graph neural network guided leakage ECO
-        link: 
-        tagline: 
-
-      - title: Early stage clock network power estimation
-        link: 
-        tagline: 
-
-      - title: Gate-level clock gating for cyclic logic paths
-        link: 
-        tagline: 
-        
-      - title: CNN based dynamic voltage drop prediction
-        link: 
-        tagline: 
-        
-      - title: RNN based OPC acceleration
-        link: 
-        tagline: 
+       - title: Early stage clock network power estimation (2017 - present)
+         link: 
+         tagline:
 
 publications:
     title: Publications
     papers:
-      - title: Fast ECO leakage optimization using graph convolutional network (accepted for publication)
+      - title: [J1] Layout Pattern Synthesis for Lithography Optimizations (accepted)
+        authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        conference:  IEEE Transactions on Semiconductor Manufacturing (TSM), 2020
+    
+      - title: [C5] Fast ECO leakage optimization using graph convolutional network (accepted)
         authors: Wonjae Lee, <b>Yonghwi Kwon</b>, and Youngsoo Shin
         conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), 2020
     
-      - title: SRAF printing prediction using artificial neural network
+      - title: [C4] SRAF printing prediction using artificial neural network
         authors: <b>Yonghwi Kwon</b>, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2020
         
-      - title: Clock gating synthesis of netlist with cyclic logic paths
+      - title: [C3] Clock gating synthesis of netlist with cyclic logic paths
         authors: <b>Yonghwi Kwon</b>, Inhak Han, and Youngsoo Shin
         conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2019
         
-      - title: Optical proximity correction using bidirectional recurrent neural network (BRNN)
+      - title: [C2] Optical proximity correction using bidirectional recurrent neural network (BRNN)
         authors: <b>Yonghwi Kwon</b>, Youngsoo Song, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2019
         
-      - title: Transient clock power estimation of pre-CTS netlist
+      - title: [C1] Transient clock power estimation of pre-CTS netlist
         authors: <b>Yonghwi Kwon</b>, Jinwook Jung, Inhak Han, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
 
