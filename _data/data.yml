@@ -128,6 +128,17 @@ projects2:
       - title: "Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC)"
         tagline: June 2019
 
+education2:
+    - degree: KAIST Science Outreach Program (KSOP)
+      university: Student mentor
+      time: 2015 - 2019
+      details: Bi-weekly teaching science and mathmatics to underpriviledged student group with talent on science. (Funded by Ministry of Science and ICT)
+      
+    - degree: Hanwha-KAIST Education Program for Gifted Students
+      university: Head mentor
+      time: 2019 - Present
+      details: Program management for 80 students and 12 mentors.
+
 
 skills:
     title: Programming languages
