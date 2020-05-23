@@ -91,9 +91,13 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: "[J1] Layout pattern synthesis for lithography optimizations (accepted)"
+      - title: "[C6] Pre-layout clock tree estimation and optimization using artificial neural network (accepted)"
+        authors: Sunwha Koh, <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        conference:  ACM/IEEE International Symposium on Low Power Electronics and Design, 2020    
+    
+      - title: "[J1] Layout pattern synthesis for lithography optimizations"
         authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, and Youngsoo Shin
-        conference:  IEEE Transactions on Semiconductor Manufacturing (TSM), 2020
+        conference:  IEEE Transactions on Semiconductor Manufacturing (TSM), vol. 33, 2020  
     
       - title: "[C5] Fast ECO leakage optimization using graph convolutional network (accepted)"
         authors: Wonjae Lee, <b>Yonghwi Kwon</b>, and Youngsoo Shin
@@ -119,6 +123,9 @@ projects2:
     title: Honors
     intro: 
     assignments:
+      - title: "Invited speaker @ Optical Society Korea (OSK) Summer Meeting"
+        tagline: July 2020    
+    
       - title: "Excellence award @ SK Hynix Open Idea Contest"
         tagline: November 2019, awarded with ~18k$ funding.
      
