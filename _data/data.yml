@@ -12,7 +12,7 @@ sidebar:
     avatar: profile_250.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    update: "Last update: 23-Mar-2020"
+    update: "Last update: 22-May-2020"
     email: yh.kwon [at] kaist.ac.kr
     website: blog.yhkwon.dev
     linkedin: yonghwi-kwon-544a1317b 
@@ -93,7 +93,7 @@ publications:
     papers:
       - title: "[C6] Pre-layout clock tree estimation and optimization using artificial neural network (accepted)"
         authors: Sunwha Koh, <b>Yonghwi Kwon</b>, and Youngsoo Shin
-        conference:  ACM/IEEE International Symposium on Low Power Electronics and Design, 2020    
+        conference:  ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2020    
     
       - title: "[J1] Layout pattern synthesis for lithography optimizations"
         authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, and Youngsoo Shin
