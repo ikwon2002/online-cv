@@ -33,6 +33,9 @@ sidebar:
       
       - item: Low power design
         link:
+        
+      - item: CAD problems on NISQ devices
+        link:
 
 career-profile:
     title: Career Profile
@@ -62,62 +65,62 @@ projects:
     assignments:
       - title: Dynamic voltage drop prediction with CNN (2019 - present)
         link: 
-        tagline: 
+        tagline: Using U-net architecture, DvD of a layout can be estimated with <15% error while it's >15x faster than conventional analysis.
 
       - title: Graph neural network guided leakage optimization (2019 - present)
         link: 
-        tagline: 
+        tagline: Vth of std. cells are optimized during ECO stage to reduce leakage power; we adopt GNN for fast optimization without timing violation.
         
       - title: Gate-level clock gating for cyclic logic paths (2019 - present)
         link: 
-        tagline: 
+        tagline: To reduce clock power, cyclic logic paths are identified and used to generate gate-level clock gating logic.
 
       - title: RNN based OPC acceleration (2018 - present)
         link: 
-        tagline: 
+        tagline: To reflect causality of segment corrections, we adopt RNN.
         
       - title: Synthetic test pattern generation using generative model (2018 - present)
         link: 
-        tagline: 
+        tagline: To enhance the coverage of lithography model, we generate synthetic patterns usign GANs.
 
       - title: Machine learning based SRAF printing prediction (2018 - 2019)
         link: 
         tagline: Project with SK Hynix R&D. ML based SRAF printing prediction for full chip scale.
 
-      - title: Early stage clock network power estimation (2017 - present)
+      - title: Early stage clock network power estimation (2017 - 2019)
         link: 
-        tagline:
+        tagline: Predicting clock network power with pre-CTS netlist and CTS parameters using ANN.
 
 publications:
     title: Publications
     papers:
-      - title: "[C6] Pre-layout clock tree estimation and optimization using artificial neural network (accepted)"
+      - title: "[C6] Pre-layout clock tree estimation and optimization using artificial neural network"
         authors: Sunwha Koh, <b>Yonghwi Kwon</b>, and Youngsoo Shin
-        conference:  ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2020    
+        conference:  ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Sep. 2020    
     
       - title: "[J1] Layout pattern synthesis for lithography optimizations"
         authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, and Youngsoo Shin
         conference:  IEEE Transactions on Semiconductor Manufacturing (TSM), vol. 33, 2020  
     
-      - title: "[C5] Fast ECO leakage optimization using graph convolutional network (accepted)"
+      - title: "[C5] Fast ECO leakage optimization using graph convolutional network (Best paper award candidate)"
         authors: Wonjae Lee, <b>Yonghwi Kwon</b>, and Youngsoo Shin
-        conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), 2020
+        conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), Aug. 2020
     
       - title: "[C4] SRAF printing prediction using artificial neural network"
         authors: <b>Yonghwi Kwon</b>, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
-        conference: SPIE Advanced Lithography, 2020
+        conference: SPIE Advanced Lithography, Feb. 2020
         
       - title: "[C3] Clock gating synthesis of netlist with cyclic logic paths"
         authors: <b>Yonghwi Kwon</b>, Inhak Han, and Youngsoo Shin
-        conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2019
+        conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 2019
         
       - title: "[C2] Optical proximity correction using bidirectional recurrent neural network (BRNN)"
         authors: <b>Yonghwi Kwon</b>, Youngsoo Song, and Youngsoo Shin
-        conference: SPIE Advanced Lithography, 2019
+        conference: SPIE Advanced Lithography, Feb. 2019
         
       - title: "[C1] Transient clock power estimation of pre-CTS netlist"
         authors: <b>Yonghwi Kwon</b>, Jinwook Jung, Inhak Han, and Youngsoo Shin
-        conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2018
+        conference: IEEE International Symposium on Circuits and Systems (ISCAS), May 2018
 
 projects2:
     title: Honors
@@ -138,7 +141,7 @@ projects2:
 education2:
     - degree: Hanwha-KAIST Education Program for Gifted Students
       university: Head mentor
-      time: 2019 - Present
+      time: 2019 - 2020
       details: Program management for 80 students and 12 mentors.
       
     - degree: KAIST Science Outreach Program (KSOP)
