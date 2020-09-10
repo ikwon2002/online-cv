@@ -65,27 +65,27 @@ projects:
     assignments:
       - title: Dynamic voltage drop prediction with CNN (2019 - present)
         link: 
-        tagline: Using U-net architecture, DvD of a layout can be estimated with <15% error while it's >15x faster than conventional analysis.
+        tagline: Using U-net architecture, DvD of a layout is estimated with <15% error while it's >15x faster than conventional analysis.
 
       - title: Graph neural network guided leakage optimization (2019 - present)
         link: 
-        tagline: Vth of std. cells are optimized during ECO stage to reduce leakage power; we adopt GNN for fast optimization without timing violation.
+        tagline: GNN is adopted for faster Vth optimization on ECO stage for leakage power reduction without timing violation.
         
       - title: Gate-level clock gating for cyclic logic paths (2019 - present)
         link: 
-        tagline: To reduce clock power, cyclic logic paths are identified and used to generate gate-level clock gating logic.
-
+        tagline: Gating function of cyclic logic paths are identified to use as enable signals of clock gating cells.
+        
       - title: RNN based OPC acceleration (2018 - present)
         link: 
-        tagline: To reflect causality of segment corrections, we adopt RNN.
+        tagline: To reflect causality of segment correction process in MB-OPC, RNN is applied for accurate mask bias prediction.
         
       - title: Synthetic test pattern generation using generative model (2018 - present)
         link: 
-        tagline: To enhance the coverage of lithography model, we generate synthetic patterns usign GANs.
+        tagline: To enhance the coverage of lithography model, synthetic patterns are generated using GANs.
 
       - title: Machine learning based SRAF printing prediction (2018 - 2019)
         link: 
-        tagline: Project with SK Hynix R&D. ML based SRAF printing prediction for full chip scale.
+        tagline: Project with SK Hynix R&D. ML-based SRAF printing prediction for full chip scale.
 
       - title: Early stage clock network power estimation (2017 - 2019)
         link: 
