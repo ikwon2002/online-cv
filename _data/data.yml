@@ -94,17 +94,18 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: "[C6] Pre-layout clock tree estimation and optimization using artificial neural network"
+      - title: "[C6] Fast ECO leakage optimization using graph convolutional network (Best paper award candidate)"
+        authors: Wonjae Lee, <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), Aug. 2020
+    
+    
+      - title: "[C5] Pre-layout clock tree estimation and optimization using artificial neural network"
         authors: Sunwha Koh, <b>Yonghwi Kwon</b>, and Youngsoo Shin
         conference:  ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Sep. 2020    
     
       - title: "[J1] Layout pattern synthesis for lithography optimizations"
         authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, and Youngsoo Shin
-        conference:  IEEE Transactions on Semiconductor Manufacturing (TSM), vol. 33, 2020  
-    
-      - title: "[C5] Fast ECO leakage optimization using graph convolutional network (Best paper award candidate)"
-        authors: Wonjae Lee, <b>Yonghwi Kwon</b>, and Youngsoo Shin
-        conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), Aug. 2020
+        conference:  IEEE Transactions on Semiconductor Manufacturing (TSM), vol. 33, May 2020  
     
       - title: "[C4] SRAF printing prediction using artificial neural network"
         authors: <b>Yonghwi Kwon</b>, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
