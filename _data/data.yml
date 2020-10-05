@@ -103,7 +103,7 @@ publications:
         conference: SPIE Advanced Lithography, 2021
     
       - title: "[C7] Optimization of accurate resist kernels through convolutional neural network (submitted)"
-        authors: <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        authors: <b>Yonghwi Kwon</b> and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2021
     
       - title: "[J2] Optical proximity correction using bidirectional recurrent neural network with attention mechanism (under review)"
