@@ -94,15 +94,15 @@ projects:
 publications:
     title: Publications
     papers:
-       - title: "[C9] Test pattern extraction for lithography modeling under design rule revisions (submitted)"
+      - title: "[C9] Test pattern extraction for lithography modeling under design rule revisions (submitted)"
         authors: Gangmin Cho, <b>Yonghwi Kwon</b>, Pervaiz Kareem, Sungho Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2021
     
-       - title: "[C8] Fast prediction of process variation band through machine learning models, (submitted)"
+      - title: "[C8] Fast prediction of process variation band through machine learning models (submitted)"
         authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, Gangmin Cho, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2021
     
-       - title: "[C7] Optimization of accurate resist kernels through convolutional neural network (submitted)"
+      - title: "[C7] Optimization of accurate resist kernels through convolutional neural network (submitted)"
         authors: <b>Yonghwi Kwon</b>, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2021
     
