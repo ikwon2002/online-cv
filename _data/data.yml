@@ -94,10 +94,25 @@ projects:
 publications:
     title: Publications
     papers:
+       - title: "[C9] Test pattern extraction for lithography modeling under design rule revisions (submitted)"
+        authors: Gangmin Cho, <b>Yonghwi Kwon</b>, Pervaiz Kareem, Sungho Kim, and Youngsoo Shin
+        conference: SPIE Advanced Lithography, 2021
+    
+       - title: "[C8] Fast prediction of process variation band through machine learning models, (submitted)"
+        authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, Gangmin Cho, and Youngsoo Shin
+        conference: SPIE Advanced Lithography, 2021
+    
+       - title: "[C7] Optimization of accurate resist kernels through convolutional neural network (submitted)"
+        authors: <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        conference: SPIE Advanced Lithography, 2021
+    
+      - title: "[J2] Optical proximity correction using bidirectional recurrent neural network with attention mechanism (under review)"
+        authors: <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        conference: IEEE Transactions on Semiconductor Manufacturing (TSM)
+    
       - title: "[C6] Fast ECO leakage optimization using graph convolutional network (Best paper award candidate)"
         authors: Wonjae Lee, <b>Yonghwi Kwon</b>, and Youngsoo Shin
         conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), Aug. 2020
-    
     
       - title: "[C5] Pre-layout clock tree estimation and optimization using artificial neural network"
         authors: Sunwha Koh, <b>Yonghwi Kwon</b>, and Youngsoo Shin
