@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Yonghwi Kwon
+title: Yonghwi Kwon (PhD student @ KAIST)
 url: 'https://cv.yhkwon.com'
 baseurl:  #change it according to your repository name
 description: Resume of Yonghwi Kwon, KAIST
