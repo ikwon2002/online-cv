@@ -146,17 +146,20 @@ projects2:
     title: Honors
     intro: 
     assignments:
+      - title: "Best paper award nomination @ ACM Great Lakes Symposium on VLSI (GLSVLSI)"
+        tagline: Aug. 2020
+    
       - title: "Invited speaker @ Optical Society Korea (OSK) Summer Meeting"
-        tagline: July 2020    
+        tagline: Jul. 2020    
     
       - title: "Excellence award @ SK Hynix Open Idea Contest"
-        tagline: November 2019, awarded with ~18k$ funding.
+        tagline: Nov. 2019, awarded with ~18k$ funding.
      
       - title: "Invited speaker @ Next Generation Lithography (NGL) conf. "
-        tagline: August 2019, presentation about BRNN-OPC.
+        tagline: Aug. 2019, presentation about BRNN-OPC.
      
       - title: "Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC)"
-        tagline: June 2019
+        tagline: Jun. 2019
 
 education2:
     - degree: Hanwha-KAIST Education Program for Gifted Students
