@@ -47,7 +47,7 @@ education:
     - degree: PhD in School of Electrical Engineering
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2019 - Present
-      details: MS & PhD integrated program
+      details: MS & PhD integrated program. KAIST EE has ranked 17th place in 2020 QS department rankings (top in domestic).
       
     - degree: MS in School of Electrical Engineering
       university: Korea Advanced Institute of Science and Technology (KAIST)
@@ -65,31 +65,31 @@ projects:
     assignments:
       - title: Dynamic voltage drop prediction with CNN (2019 - present)
         link: 
-        tagline: Using U-net architecture, DvD of a layout is estimated with <15% error while it's >15x faster than conventional analysis.
+        tagline: 
 
       - title: Graph neural network guided leakage optimization (2019 - present)
         link: 
-        tagline: GNN is adopted for faster Vth optimization on ECO stage for leakage power reduction without timing violation.
+        tagline: 
         
       - title: Gate-level clock gating for cyclic logic paths (2019 - present)
         link: 
-        tagline: Gating function of cyclic logic paths are identified to use as enable signals of clock gating cells.
+        tagline:
         
-      - title: RNN based OPC acceleration (2018 - present)
+      - title: RNN based OPC acceleration (2018 - 2020)
         link: 
-        tagline: To reflect causality of segment correction process in MB-OPC, RNN is applied for accurate mask bias prediction.
+        tagline: 
         
-      - title: Synthetic test pattern generation using generative model (2018 - present)
+      - title: Synthetic test pattern generation using generative model (2018 - 2020)
         link: 
-        tagline: To enhance the coverage of lithography model, synthetic patterns are generated using GANs.
+        tagline: 
 
       - title: Machine learning based SRAF printing prediction (2018 - 2019)
         link: 
-        tagline: Project with SK Hynix R&D. ML-based SRAF printing prediction for full chip scale.
+        tagline: 
 
       - title: Early stage clock network power estimation (2017 - 2019)
         link: 
-        tagline: Predicting clock network power with pre-CTS netlist and CTS parameters using ANN.
+        tagline: 
 
 publications:
     title: Publications
@@ -156,11 +156,11 @@ projects2:
       - title: "Invited speaker @ Optical Society Korea (OSK) Summer Meeting"
         tagline: Jul. 2020    
     
-      - title: "Excellence award @ SK Hynix Open Idea Contest"
-        tagline: Nov. 2019, awarded with ~18k$ funding.
+      - title: "Second prize @ SK Hynix Open Idea Contest"
+        tagline: Nov. 2019, received with 18,000$ reward cash.
      
       - title: "Invited speaker @ Next Generation Lithography (NGL) conf. "
-        tagline: Aug. 2019, presentation about BRNN-OPC.
+        tagline: Aug. 2019
      
       - title: "Richard Newton Young Fellow @ 56th Design Automation Conf. (DAC)"
         tagline: Jun. 2019
