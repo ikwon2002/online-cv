@@ -95,55 +95,55 @@ publications:
     title: Publications
     papers:
       - title: "[C11] Test pattern clustering for accurate and efficient lithography modeling (submitted)"
-        authors: Gangmin Cho, <b>Yonghwi Kwon</b>, Pervaiz Kareem, and Youngsoo Shin
+        authors: Gangmin Cho, <u><b>Yonghwi Kwon</b></u>, Pervaiz Kareem, and Youngsoo Shin
         conference: IEEE/ACM Design Automation Conference (DAC), 2021
     
       - title: "[C10] Dynamic IR drop prediction using image-to-image translation neural network (submitted)"
-        authors: <b>Yonghwi Kwon</b>, Daijoon Hyun, Giyoon Jung, and Youngsoo Shin
+        authors: <u><b>Yonghwi Kwon</b></u>, Daijoon Hyun, Giyoon Jung, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2021
     
       - title: "[C9] Test pattern extraction for lithography modeling under design rule revisions (accepted)"
-        authors: Gangmin Cho, <b>Yonghwi Kwon</b>, Pervaiz Kareem, Sungho Kim, and Youngsoo Shin
+        authors: Gangmin Cho, <u><b>Yonghwi Kwon</b></u>, Pervaiz Kareem, Sungho Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2021
     
       - title: "[C8] Fast prediction of process variation band through machine learning models (accepted)"
-        authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, Gangmin Cho, and Youngsoo Shin
+        authors: Pervaiz Kareem, <u><b>Yonghwi Kwon</b></u>, Gangmin Cho, and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2021
     
       - title: "[C7] Optimization of accurate resist kernels through convolutional neural network (accepted)"
-        authors: <b>Yonghwi Kwon</b> and Youngsoo Shin
+        authors: <u><b>Yonghwi Kwon</b></u> and Youngsoo Shin
         conference: SPIE Advanced Lithography, 2021
     
       - title: "[J2] Optical proximity correction using bidirectional recurrent neural network with attention mechanism (in revision)"
-        authors: <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        authors: <u><b>Yonghwi Kwon</b></u>, and Youngsoo Shin
         conference: IEEE Transactions on Semiconductor Manufacturing (TSM)
     
       - title: "[C6] Fast ECO leakage optimization using graph convolutional network (Best paper award candidate)"
-        authors: Wonjae Lee, <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        authors: Wonjae Lee, <u><b>Yonghwi Kwon</b></u>, and Youngsoo Shin
         conference: ACM Great Lakes Symposium on VLSI (GLSVLSI), Aug. 2020
     
       - title: "[C5] Pre-layout clock tree estimation and optimization using artificial neural network"
-        authors: Sunwha Koh, <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        authors: Sunwha Koh, <u><b>Yonghwi Kwon</b></u>, and Youngsoo Shin
         conference:  ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Sep. 2020    
     
       - title: "[J1] Layout pattern synthesis for lithography optimizations"
-        authors: Pervaiz Kareem, <b>Yonghwi Kwon</b>, and Youngsoo Shin
+        authors: Pervaiz Kareem, <u><b>Yonghwi Kwon</b></u>, and Youngsoo Shin
         conference:  IEEE Transactions on Semiconductor Manufacturing (TSM), vol. 33, May 2020  
     
       - title: "[C4] SRAF printing prediction using artificial neural network"
-        authors: <b>Yonghwi Kwon</b>, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
+        authors: <u><b>Yonghwi Kwon</b></u>, Jinho Yang, Sungho Kim, Cheolkyun Kim, and Youngsoo Shin
         conference: SPIE Advanced Lithography, Feb. 2020
         
       - title: "[C3] Clock gating synthesis of netlist with cyclic logic paths"
-        authors: <b>Yonghwi Kwon</b>, Inhak Han, and Youngsoo Shin
+        authors: <u><b>Yonghwi Kwon</b></u>, Inhak Han, and Youngsoo Shin
         conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 2019
         
       - title: "[C2] Optical proximity correction using bidirectional recurrent neural network (BRNN)"
-        authors: <b>Yonghwi Kwon</b>, Youngsoo Song, and Youngsoo Shin
+        authors: <u><b>Yonghwi Kwon</b></u>, Youngsoo Song, and Youngsoo Shin
         conference: SPIE Advanced Lithography, Feb. 2019
         
       - title: "[C1] Transient clock power estimation of pre-CTS netlist"
-        authors: <b>Yonghwi Kwon</b>, Jinwook Jung, Inhak Han, and Youngsoo Shin
+        authors: <u><b>Yonghwi Kwon</b></u>, Jinwook Jung, Inhak Han, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), May 2018
 
 projects2:
