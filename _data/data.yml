@@ -94,7 +94,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: "[C10] Dynamic IR drop prediction using image-to-image translation neural network (submitted)"
+      - title: "[C10] Dynamic IR drop prediction using image-to-image translation neural network (accepted)"
         authors: <u><b>Yonghwi Kwon</b></u>, Daijoon Hyun, Giyoon Jung, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2021
     
