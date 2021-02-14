@@ -12,7 +12,7 @@ sidebar:
     avatar: profile_250.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    update: "Last update: 26-Nov-2020"
+    update: "Last update: 14-Feb-2021"
     email: yh.kwon [at] kaist.ac.kr
     website: blog.yhkwon.dev
     linkedin: yonghwi-kwon-544a1317b 
@@ -63,10 +63,6 @@ projects:
     title: Projects
     intro:  
     assignments:
-      - title: Dynamic voltage drop prediction with CNN (2019 - present)
-        link: 
-        tagline: 
-
       - title: Graph neural network guided leakage optimization (2019 - present)
         link: 
         tagline: 
@@ -74,6 +70,10 @@ projects:
       - title: Gate-level clock gating for cyclic logic paths (2019 - present)
         link: 
         tagline:
+
+      - title: Dynamic voltage drop prediction with CNN (2019 - 2020)
+        link: 
+        tagline: 
         
       - title: RNN based OPC acceleration (2018 - 2020)
         link: 
@@ -94,10 +94,6 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: "[C11] Test pattern clustering for accurate and efficient lithography modeling (submitted)"
-        authors: Gangmin Cho, <u><b>Yonghwi Kwon</b></u>, Pervaiz Kareem, and Youngsoo Shin
-        conference: IEEE/ACM Design Automation Conference (DAC), 2021
-    
       - title: "[C10] Dynamic IR drop prediction using image-to-image translation neural network (submitted)"
         authors: <u><b>Yonghwi Kwon</b></u>, Daijoon Hyun, Giyoon Jung, and Youngsoo Shin
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2021
